@@ -1,5 +1,13 @@
 This file is meant to keep some notes on free data sources for NLP work.
 
+Great resource but mostly unlabeled: https://github.com/niderhoff/nlp-datasets
+
+More datasets: https://odsc.medium.com/20-open-datasets-for-natural-language-processing-538fbfaf8e38
+
+Sentiment 140: https://www.kaggle.com/datasets/kazanova/sentiment140 (have to log in with kaggle (google works))
+
+
+
 
 
 
